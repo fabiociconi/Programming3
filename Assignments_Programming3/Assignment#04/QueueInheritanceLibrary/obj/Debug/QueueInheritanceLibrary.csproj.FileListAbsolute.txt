@@ -1,0 +1,7 @@
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.dll
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\bin\Debug\LinkedListClassLibrary.dll
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\bin\Debug\LinkedListClassLibrary.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.dll
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.pdb

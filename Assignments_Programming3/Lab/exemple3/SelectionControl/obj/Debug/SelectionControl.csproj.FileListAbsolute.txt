@@ -1,0 +1,6 @@
+C:\Classes\COMP212\Class_examples\2016\SelectionControl\bin\Debug\SelectionControl.dll
+C:\Classes\COMP212\Class_examples\2016\SelectionControl\bin\Debug\SelectionControl.pdb
+C:\Classes\COMP212\Class_examples\2016\SelectionControl\obj\Debug\SelectionControl.SelectionControl.resources
+C:\Classes\COMP212\Class_examples\2016\SelectionControl\obj\Debug\SelectionControl.csproj.GenerateResource.Cache
+C:\Classes\COMP212\Class_examples\2016\SelectionControl\obj\Debug\SelectionControl.dll
+C:\Classes\COMP212\Class_examples\2016\SelectionControl\obj\Debug\SelectionControl.pdb

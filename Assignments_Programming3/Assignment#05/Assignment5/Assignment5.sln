@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Linear Search Method", "Generic Linear Search Method\Generic Linear Search Method.csproj", "{8AAEA769-8CF5-4714-8266-1C40A85BB130}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise1", "Exercise1", "{1A87D45E-E8FE-484E-AF5E-869931CA8745}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise2", "Exercise2", "{D72A012E-AF9F-40FC-906B-995D365BF3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading a Generic Method", "Overloading a Generic Method\Overloading a Generic Method.csproj", "{76B0E430-54BC-48CA-A6EB-8022F4213C57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise3", "Exercise3", "{EC6696B5-ED2A-4AE6-A328-50B0840AEB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{789E1724-DDEB-41D7-BE78-8C4287B536B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise4", "Exercise4", "{A3D1BB05-BD4D-4ED6-B4F7-7B1E3A2A525E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionary", "SortedDictionary\SortedDictionary.csproj", "{CF96A4E0-5593-4841-9A60-5F9D2ED99685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAEA769-8CF5-4714-8266-1C40A85BB130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAEA769-8CF5-4714-8266-1C40A85BB130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAEA769-8CF5-4714-8266-1C40A85BB130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAEA769-8CF5-4714-8266-1C40A85BB130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B0E430-54BC-48CA-A6EB-8022F4213C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B0E430-54BC-48CA-A6EB-8022F4213C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B0E430-54BC-48CA-A6EB-8022F4213C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B0E430-54BC-48CA-A6EB-8022F4213C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789E1724-DDEB-41D7-BE78-8C4287B536B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789E1724-DDEB-41D7-BE78-8C4287B536B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789E1724-DDEB-41D7-BE78-8C4287B536B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789E1724-DDEB-41D7-BE78-8C4287B536B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF96A4E0-5593-4841-9A60-5F9D2ED99685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF96A4E0-5593-4841-9A60-5F9D2ED99685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF96A4E0-5593-4841-9A60-5F9D2ED99685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF96A4E0-5593-4841-9A60-5F9D2ED99685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AAEA769-8CF5-4714-8266-1C40A85BB130} = {1A87D45E-E8FE-484E-AF5E-869931CA8745}
+		{76B0E430-54BC-48CA-A6EB-8022F4213C57} = {D72A012E-AF9F-40FC-906B-995D365BF3DE}
+		{789E1724-DDEB-41D7-BE78-8C4287B536B1} = {EC6696B5-ED2A-4AE6-A328-50B0840AEB86}
+		{CF96A4E0-5593-4841-9A60-5F9D2ED99685} = {A3D1BB05-BD4D-4ED6-B4F7-7B1E3A2A525E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\bin\Debug\netcoreapp1.1\BooksServiceSample.deps.json
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\bin\Debug\netcoreapp1.1\BooksServiceSample.runtimeconfig.json
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\bin\Debug\netcoreapp1.1\BooksServiceSample.runtimeconfig.dev.json
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\bin\Debug\netcoreapp1.1\BooksServiceSample.dll
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\bin\Debug\netcoreapp1.1\BooksServiceSample.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\obj\Debug\netcoreapp1.1\BooksServiceSample.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\obj\Debug\netcoreapp1.1\BooksServiceSample.csproj.CoreCompileInputs.cache
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\obj\Debug\netcoreapp1.1\BooksServiceSample.AssemblyInfoInputs.cache
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\obj\Debug\netcoreapp1.1\BooksServiceSample.AssemblyInfo.cs
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\obj\Debug\netcoreapp1.1\BooksServiceSample.dll
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\Examples\BooksServiceSample\src\BooksServiceSample\obj\Debug\netcoreapp1.1\BooksServiceSample.pdb

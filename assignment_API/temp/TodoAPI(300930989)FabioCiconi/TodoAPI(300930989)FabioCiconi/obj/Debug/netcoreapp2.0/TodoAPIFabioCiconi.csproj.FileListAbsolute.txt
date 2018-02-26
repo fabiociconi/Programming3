@@ -1,0 +1,10 @@
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPIFabioCiconi.deps.json
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPIFabioCiconi.runtimeconfig.json
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPIFabioCiconi.runtimeconfig.dev.json
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPIFabioCiconi.dll
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPIFabioCiconi.pdb
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPIFabioCiconi.csproj.CoreCompileInputs.cache
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPIFabioCiconi.AssemblyInfoInputs.cache
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPIFabioCiconi.AssemblyInfo.cs
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPIFabioCiconi.dll
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPIFabioCiconi.pdb

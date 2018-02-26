@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedListClassLibrary", "LinkedListClassLibrary", "{66E9E7AD-6E6B-4B46-8FE0-7BC0EA8C7F5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListTest", "ListTest", "{C203EF01-B5A2-49FB-A1E0-6404164793CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QueueInheritanceLibrary", "QueueInheritanceLibrary", "{CA250664-B0DE-4217-8625-958FEB8C8AFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QueueTest", "QueueTest", "{5C48B94B-3C33-498A-B300-5E654B53B27A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StackInheritanceLibrary", "StackInheritanceLibrary", "{78E42057-280D-4C99-8BAD-CEE905397251}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StackInheritanceTest", "StackInheritanceTest", "{6A26F612-51C8-42E5-83C7-567ECCE76E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListClassLibrary", "..\LinkedListClassLibrary\LinkedListClassLibrary\LinkedListClassLibrary.csproj", "{A929FF26-C5DF-4D81-AEA7-D87D5A7F2019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTest", "..\ListTest\ListTest\ListTest.csproj", "{171484A5-DC69-4AA3-BA86-DBF3C420495A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueInheritanceLibrary", "..\QueueInheritanceLibrary\QueueInheritanceLibrary.csproj", "{18F34CE9-172E-4831-83C6-47FAE9DBE32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueTest", "..\QueueTest\QueueTest.csproj", "{297B1D06-0269-42B8-9A86-D9BE1D59A6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackInheritanceLibrary", "..\StackInheritanceLibrary\StackInheritanceLibrary.csproj", "{5C8A9515-13BE-4846-A824-55E4F830FBD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackInheritanceTest", "..\StackInheritanceTest\StackInheritanceTest.csproj", "{B7B9728F-9EB8-4C95-95B5-2761F62E15CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A929FF26-C5DF-4D81-AEA7-D87D5A7F2019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A929FF26-C5DF-4D81-AEA7-D87D5A7F2019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A929FF26-C5DF-4D81-AEA7-D87D5A7F2019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A929FF26-C5DF-4D81-AEA7-D87D5A7F2019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171484A5-DC69-4AA3-BA86-DBF3C420495A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171484A5-DC69-4AA3-BA86-DBF3C420495A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171484A5-DC69-4AA3-BA86-DBF3C420495A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171484A5-DC69-4AA3-BA86-DBF3C420495A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F34CE9-172E-4831-83C6-47FAE9DBE32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F34CE9-172E-4831-83C6-47FAE9DBE32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F34CE9-172E-4831-83C6-47FAE9DBE32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F34CE9-172E-4831-83C6-47FAE9DBE32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297B1D06-0269-42B8-9A86-D9BE1D59A6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297B1D06-0269-42B8-9A86-D9BE1D59A6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297B1D06-0269-42B8-9A86-D9BE1D59A6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297B1D06-0269-42B8-9A86-D9BE1D59A6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8A9515-13BE-4846-A824-55E4F830FBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8A9515-13BE-4846-A824-55E4F830FBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8A9515-13BE-4846-A824-55E4F830FBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8A9515-13BE-4846-A824-55E4F830FBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B9728F-9EB8-4C95-95B5-2761F62E15CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B9728F-9EB8-4C95-95B5-2761F62E15CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B9728F-9EB8-4C95-95B5-2761F62E15CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B9728F-9EB8-4C95-95B5-2761F62E15CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A929FF26-C5DF-4D81-AEA7-D87D5A7F2019} = {66E9E7AD-6E6B-4B46-8FE0-7BC0EA8C7F5D}
+		{171484A5-DC69-4AA3-BA86-DBF3C420495A} = {C203EF01-B5A2-49FB-A1E0-6404164793CC}
+		{18F34CE9-172E-4831-83C6-47FAE9DBE32C} = {CA250664-B0DE-4217-8625-958FEB8C8AFB}
+		{297B1D06-0269-42B8-9A86-D9BE1D59A6AB} = {5C48B94B-3C33-498A-B300-5E654B53B27A}
+		{5C8A9515-13BE-4846-A824-55E4F830FBD8} = {78E42057-280D-4C99-8BAD-CEE905397251}
+		{B7B9728F-9EB8-4C95-95B5-2761F62E15CF} = {6A26F612-51C8-42E5-83C7-567ECCE76E78}
+	EndGlobalSection
+EndGlobal

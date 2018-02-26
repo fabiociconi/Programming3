@@ -1,0 +1,22 @@
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\bin\Debug\SelectionControlTest.exe.config
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\bin\Debug\SelectionControlTest.exe
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\bin\Debug\SelectionControlTest.pdb
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\bin\Debug\SelectionControl.dll
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\bin\Debug\SelectionControl.pdb
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\obj\Debug\SelectionControlTest.csprojResolveAssemblyReference.cache
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\obj\Debug\SelectionControlTest.Form1.resources
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\obj\Debug\SelectionControlTest.Properties.Resources.resources
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\obj\Debug\SelectionControlTest.csproj.GenerateResource.Cache
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\obj\Debug\SelectionControlTest.exe
+C:\Classes\COMP212\Class_examples\2016\SelectionControlTest\obj\Debug\SelectionControlTest.pdb
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\bin\Debug\SelectionControlTest.exe.config
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\obj\Debug\SelectionControlTest.exe
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\obj\Debug\SelectionControlTest.pdb
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\bin\Debug\SelectionControlTest.exe
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\bin\Debug\SelectionControlTest.pdb
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\bin\Debug\SelectionControl.dll
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\bin\Debug\SelectionControl.pdb
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\obj\Debug\SelectionControlTest.csprojResolveAssemblyReference.cache
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\obj\Debug\SelectionControlTest.Form1.resources
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\obj\Debug\SelectionControlTest.Properties.Resources.resources
+C:\Classes\COMP212\Class_examples\2017\Week 3 Examples\SelectionControlTest\obj\Debug\SelectionControlTest.csproj.GenerateResource.Cache

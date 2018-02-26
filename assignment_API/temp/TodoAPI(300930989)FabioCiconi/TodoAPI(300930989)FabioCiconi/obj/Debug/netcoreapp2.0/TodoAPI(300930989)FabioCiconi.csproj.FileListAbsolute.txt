@@ -1,0 +1,11 @@
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.deps.json
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.runtimeconfig.json
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.runtimeconfig.dev.json
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.dll
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\bin\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.pdb
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.csproj.CoreCompileInputs.cache
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.AssemblyInfoInputs.cache
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.AssemblyInfo.cs
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.dll
+C:\Users\ZeusAC\Documents\Visual Studio 2017\Projects\TodoAPI(300930989)FabioCiconi\TodoAPI(300930989)FabioCiconi\obj\Debug\netcoreapp2.0\TodoAPI(300930989)FabioCiconi.pdb

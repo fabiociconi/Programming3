@@ -1,0 +1,6 @@
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\Fabio-Ciconi_Lab04_Sec-003\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\Fabio-Ciconi_Lab04_Sec-003\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\Fabio-Ciconi_Lab04_Sec-003\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\Fabio-Ciconi_Lab04_Sec-003\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\Fabio-Ciconi_Lab04_Sec-003\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\Fabio-Ciconi_Lab04_Sec-003\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,18 @@
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\bin\Debug\Test1.exe.config
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\bin\Debug\Test1.exe
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\bin\Debug\Test1.pdb
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\obj\Debug\Test1.exe
+C:\CentennialCollege\2017Summer\COMP212\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Test1\Test1\obj\Debug\Test1.pdb

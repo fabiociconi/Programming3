@@ -1,0 +1,10 @@
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\bin\Debug\netcoreapp1.0\pro.deps.json
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\bin\Debug\netcoreapp1.0\pro.runtimeconfig.json
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\bin\Debug\netcoreapp1.0\pro.runtimeconfig.dev.json
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\bin\Debug\netcoreapp1.0\pro.dll
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\bin\Debug\netcoreapp1.0\pro.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\obj\Debug\netcoreapp1.0\pro.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\obj\Debug\netcoreapp1.0\pro.csproj.CoreCompileInputs.cache
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\obj\Debug\netcoreapp1.0\pro.AssemblyInfo.cs
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\obj\Debug\netcoreapp1.0\pro.dll
+C:\Users\ZeusAC\Desktop\College Courses\17F --API Engineering & Cloud Comp (SEC. 001)\core\pro\pro\obj\Debug\netcoreapp1.0\pro.pdb

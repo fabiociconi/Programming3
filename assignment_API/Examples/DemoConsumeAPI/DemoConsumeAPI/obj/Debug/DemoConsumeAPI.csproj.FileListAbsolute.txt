@@ -1,0 +1,10 @@
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\bin\Debug\DemoConsumeAPI.exe.config
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\bin\Debug\DemoConsumeAPI.exe
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\bin\Debug\DemoConsumeAPI.pdb
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.Form1.resources
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.Properties.Resources.resources
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.csproj.GenerateResource.Cache
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.exe
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.pdb
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI\DemoConsumeAPI\obj\Debug\DemoConsumeAPI.csprojResolveAssemblyReference.cache

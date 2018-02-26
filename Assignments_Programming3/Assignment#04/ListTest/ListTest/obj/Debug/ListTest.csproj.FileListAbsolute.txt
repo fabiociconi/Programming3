@@ -1,0 +1,16 @@
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\bin\Debug\ListTest.exe
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\bin\Debug\ListTest.pdb
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\bin\Debug\LinkedListClassLibrary.dll
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\bin\Debug\LinkedListClassLibrary.pdb
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#8\ch19\Fig19_05\ListTest\ListTest\obj\Debug\ListTest.pdb
+C:\CentennialCollege\COMP212Example\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\CentennialCollege\COMP212Example\ListTest\ListTest\obj\Debug\ListTest.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\bin\Debug\ListTest.exe
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\bin\Debug\ListTest.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\bin\Debug\LinkedListClassLibrary.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\obj\Debug\ListTest.pdb
+C:\Users\ZeusAC\Desktop\College Courses\17M --Programming 3\Assignments\Assignment#04\ListTest\ListTest\bin\Debug\LinkedListClassLibrary.dll

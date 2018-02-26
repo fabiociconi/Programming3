@@ -1,0 +1,11 @@
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\bin\Debug\netcoreapp2.0\DemoConsumeAPI2.deps.json
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\bin\Debug\netcoreapp2.0\DemoConsumeAPI2.runtimeconfig.json
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\bin\Debug\netcoreapp2.0\DemoConsumeAPI2.runtimeconfig.dev.json
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\bin\Debug\netcoreapp2.0\DemoConsumeAPI2.dll
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\obj\Debug\netcoreapp2.0\DemoConsumeAPI2.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\obj\Debug\netcoreapp2.0\DemoConsumeAPI2.AssemblyInfoInputs.cache
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\obj\Debug\netcoreapp2.0\DemoConsumeAPI2.AssemblyInfo.cs
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\bin\Debug\netcoreapp2.0\DemoConsumeAPI2.pdb
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\obj\Debug\netcoreapp2.0\DemoConsumeAPI2.dll
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\obj\Debug\netcoreapp2.0\DemoConsumeAPI2.pdb
+C:\Centennialcollege\Examples4Comp306\DemoConsumeAPI2\DemoConsumeAPI2\obj\Debug\netcoreapp2.0\DemoConsumeAPI2.csprojResolveAssemblyReference.cache

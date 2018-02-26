@@ -1,0 +1,4 @@
+C:\Classes\COMP212\Class_examples\2016\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Classes\COMP212\Class_examples\2016\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Classes\COMP212\Class_examples\2016\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Classes\COMP212\Class_examples\2016\MyLibrary\obj\Debug\MyLibrary.pdb
